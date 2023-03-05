@@ -1,0 +1,26 @@
+{
+  "name": "calculator/calculator",
+  "description": "simple calculator with login page",
+  "type": "project",
+  "keywords": [],
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "ASUS",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    
+  },
+  "require-dev": {
+
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app//"
+
+    }
+  }
+}
